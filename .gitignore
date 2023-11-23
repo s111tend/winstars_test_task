@@ -1,3 +1,5 @@
+dataset/*
+!dataset/.gitkeep
 kaggle.json
 __pycache__
 .idea
