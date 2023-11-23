@@ -1,6 +1,4 @@
-dataset/*
 kaggle.json
-Test.ipynb
 __pycache__
 .idea
 .ipynb_checkpoints
